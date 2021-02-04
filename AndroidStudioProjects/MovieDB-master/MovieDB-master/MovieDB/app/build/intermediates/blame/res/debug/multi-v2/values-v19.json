@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Sujin_Kim\\AndroidStudioProjects\\MovieDB7\\MovieDB\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin_Kim\\.gradle\\caches\\transforms-2\\files-2.1\\0e49b6de6c4e79e8c88ed59b1b6b3555\\jetified-materialize-0.2.0\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "4,7,10,13,16,19,22",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "204,405,577,761,969,1157,1321",
+                        "endLines": "4,9,12,15,18,21,24",
+                        "endColumns": "51,12,12,12,12,12,12",
+                        "endOffsets": "251,572,756,964,1152,1316,1468"
+                    },
+                    "to": {
+                        "startLines": "2,3,6,9,12,15,18",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,279,463,671,859,1023",
+                        "endLines": "2,5,8,11,14,17,20",
+                        "endColumns": "51,12,12,12,12,12,12",
+                        "endOffsets": "102,274,458,666,854,1018,1170"
+                    }
+                }
+            ]
+        }
+    ]
+}

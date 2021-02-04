@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:materialize:0.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0e49b6de6c4e79e8c88ed59b1b6b3555/jetified-materialize-0.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0e49b6de6c4e79e8c88ed59b1b6b3555/jetified-materialize-0.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0ca60843159844579319ac7beece3be1/jetified-materialize-0.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0ca60843159844579319ac7beece3be1/jetified-materialize-0.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0ca60843159844579319ac7beece3be1/jetified-materialize-0.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/materialize/0.2.0/43555c5210868ddb80037dfad3bcb706c2ab3b3b/materialize-0.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/materialize/0.2.0/26f38380f4b3d754718b06fddf568ce9bdf4c239/materialize-0.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yqritc:recyclerview-flexibledivider:1.2.5@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/babde50077d57d2f5b06f09a529890b6/jetified-recyclerview-flexibledivider-1.2.5/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/412e1ca985071142bb047e1ace78f1be/jetified-recyclerview-flexibledivider-1.2.5/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/babde50077d57d2f5b06f09a529890b6/jetified-recyclerview-flexibledivider-1.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/babde50077d57d2f5b06f09a529890b6/jetified-recyclerview-flexibledivider-1.2.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c6618ff3a992e53ddda405f3a27ea18/jetified-recyclerview-flexibledivider-1.2.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/412e1ca985071142bb047e1ace78f1be/jetified-recyclerview-flexibledivider-1.2.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/412e1ca985071142bb047e1ace78f1be/jetified-recyclerview-flexibledivider-1.2.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/412e1ca985071142bb047e1ace78f1be/jetified-recyclerview-flexibledivider-1.2.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yqritc/recyclerview-flexibledivider/1.2.5/2a68fbf4326d2eaf31cd332a895b57c1893ab22c/recyclerview-flexibledivider-1.2.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yqritc/recyclerview-flexibledivider/1.2.5/5d866d11ea9f944d8a1dde64dfd8672a8212c56a/recyclerview-flexibledivider-1.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

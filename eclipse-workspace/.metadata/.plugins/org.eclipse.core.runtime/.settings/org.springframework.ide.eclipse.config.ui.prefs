@@ -1,0 +1,7 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/test/src/main/resources/egovframework/spring/com/context-crypto.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/test/src/main/resources/egovframework/spring/com/context-datasource.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/test/src/main/resources/egovframework/spring/com/context-properties.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/test/src/main/webapp/WEB-INF/config/egovframework/springmvc/egov-com-access.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/test/src/main/webapp/WEB-INF/config/egovframework/springmvc/egov-com-interceptor.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/test/src/main/webapp/WEB-INF/config/egovframework/springmvc/egov-com-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1

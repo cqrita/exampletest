@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="movie_poster">movie_poster</string>
+    <string name="movie_backdrop_content_description">movie_backdrop_content_description</string>
+    <string name="review_author_image">review_author_image</string>
+    <string name="trailer_thumbnail">trailer_thumbnail</string>
+    <string name="summary">summary</string>
+    <string name="userreviews">userReviews</string>
+    <string name="userReviews">userReviews</string>
+    <string name="trailers">trailers</string>
+    <string name="cast">cast</string>
+    <string name="movieposter">MoviePoster</string>
+    <string name="moviePoster">moviePoster</string>
+    <string name="favorite">Favorite</string>
+    <string name="as">as</string>
+
+
+</resources>

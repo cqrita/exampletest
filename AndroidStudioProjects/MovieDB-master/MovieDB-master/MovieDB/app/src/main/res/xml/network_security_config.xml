@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">section.cgv.co.kr/theater/timetable/Default.aspx?</domain>
+    </domain-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">section.cgv.co.kr/theater/timetable/Default.aspx?code=112</domain>
+    </domain-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">cgv.co.kr</domain>
+    </domain-config>
+</network-security-config>

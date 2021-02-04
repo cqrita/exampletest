@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:orientation="vertical"
+tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <ImageView
+                android:id="@+id/movie_poster"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/movie_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="8dp"
+                android:paddingTop="8dp"
+                android:textColor="@color/colorAccent"
+                android:textSize="20dp" />
+
+            <RatingBar
+                android:id="@+id/movie_rating"
+                android:isIndicator="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/Widget.AppCompat.RatingBar.Indicator"
+                android:numStars="10"
+                android:rating="0"
+                android:stepSize="0.5"
+                android:paddingLeft="8dp" />
+            <TextView
+                android:id="@+id/movie_year"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="8dp" />
+
+
+            <TextView
+                android:id="@+id/movie_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:paddingLeft="8dp"
+                android:paddingTop="8dp" />
+
+            <Button
+                android:id="@+id/recommend"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Recommend"
+                android:textAppearance="@style/TextAppearance.MaterialComponents.Button" />
+
+            <TextView
+                android:id="@+id/label_cast"
+                style="Label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="32dp"
+                android:text="@string/cast" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/list_cast"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:clipToPadding="false"
+                android:paddingEnd="16dp" />
+
+            <TextView
+                android:id="@+id/label_trailers"
+                style="Label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="32dp"
+                android:baselineAligned="false"
+                android:text="@string/trailers" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/list_trailers"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:clipToPadding="false"
+                android:paddingEnd="16dp" />
+
+            <TextView
+                android:id="@+id/label_reviews"
+                style="Label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="24dp"
+                android:text="@string/userReviews" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/list_reviews"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:clipChildren="false" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+<!--    <com.melnykov.fab.FloatingActionButton-->
+<!--    android:layout_width="wrap_content"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:layout_alignParentBottom="true"-->
+<!--    android:layout_alignParentEnd="true"-->
+<!--    android:layout_alignParentRight="true"-->
+<!--    android:layout_margin="16dp"-->
+<!--    android:src="@drawable/ic_add_white_24dp"-->
+<!--    fab:fab_colorNormal="@color/accent"-->
+<!--    fab:fab_colorPressed="@color/primary"-->
+<!--    fab:fab_colorRipple="@color/primary_light"-->
+<!--    fab:fab_shadow="true"-->
+<!--    fab:fab_type="normal"-->
+<!--    />-->
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/btn_favorite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        app:elevation="10dp"
+        app:layout_anchorGravity="bottom|right|end"
+        app:pressedTranslationZ="12dp"
+        app:rippleColor="@android:color/white"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/ic_add_white_24dp"
+        android:layout_alignParentRight="true"
+        android:layout_gravity="end|bottom"
+        />
+</RelativeLayout>

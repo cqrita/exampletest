@@ -1,0 +1,98 @@
+com/example/MovieDB/fragment/FavoriteFragment.java
+ com.example.MovieDB.fragment.FavoriteFragment
+com/example/MovieDB/fragment/MovieDetailFragment.java
+ com.example.MovieDB.fragment.MovieDetailFragment
+ com.example.MovieDB.fragment.MovieDetailFragment$1
+ com.example.MovieDB.fragment.MovieDetailFragment$2
+ com.example.MovieDB.fragment.MovieDetailFragment$3
+ com.example.MovieDB.fragment.MovieDetailFragment$4
+ com.example.MovieDB.fragment.MovieDetailFragment$5
+ com.example.MovieDB.fragment.MovieDetailFragment$CastAsyncTask
+ com.example.MovieDB.fragment.MovieDetailFragment$CastAsyncTask$HttpCallback
+ com.example.MovieDB.fragment.MovieDetailFragment$ReviewAsyncTask
+ com.example.MovieDB.fragment.MovieDetailFragment$ReviewAsyncTask$HttpCallback
+ com.example.MovieDB.fragment.MovieDetailFragment$TrailerAsyncTask
+ com.example.MovieDB.fragment.MovieDetailFragment$TrailerAsyncTask$HttpCallback
+com/example/MovieDB/data/Cast.java
+ com.example.MovieDB.data.Cast
+com/example/MovieDB/adapter/MovieListAdapter.java
+ com.example.MovieDB.adapter.MovieListAdapter
+ com.example.MovieDB.adapter.MovieListAdapter$1
+ com.example.MovieDB.adapter.MovieListAdapter$RecyclerViewHolders
+com/example/MovieDB/data/Review.java
+ com.example.MovieDB.data.Review
+com/example/MovieDB/fragment/RecommendFragment.java
+ com.example.MovieDB.fragment.RecommendFragment
+ com.example.MovieDB.fragment.RecommendFragment$1
+ com.example.MovieDB.fragment.RecommendFragment$2
+ com.example.MovieDB.fragment.RecommendFragment$2$1
+ com.example.MovieDB.fragment.RecommendFragment$MyAsyncTask
+ com.example.MovieDB.fragment.RecommendFragment$MyAsyncTask$HttpCallback
+com/example/MovieDB/fragment/HomeFragment.java
+ com.example.MovieDB.fragment.HomeFragment
+ com.example.MovieDB.fragment.HomeFragment$1
+ com.example.MovieDB.fragment.HomeFragment$2
+ com.example.MovieDB.fragment.HomeFragment$2$1
+ com.example.MovieDB.fragment.HomeFragment$MyAsyncTask
+ com.example.MovieDB.fragment.HomeFragment$MyAsyncTask$HttpCallback
+com/example/MovieDB/fragment/ActorDetailFragment.java
+ com.example.MovieDB.fragment.ActorDetailFragment
+ com.example.MovieDB.fragment.ActorDetailFragment$1
+ com.example.MovieDB.fragment.ActorDetailFragment$CastAsyncTask
+ com.example.MovieDB.fragment.ActorDetailFragment$CastAsyncTask$HttpCallback
+com/example/MovieDB/data/Trailer.java
+ com.example.MovieDB.data.Trailer
+com/example/MovieDB/fragment/MapFragment.java
+ com.example.MovieDB.fragment.MapFragment
+ com.example.MovieDB.fragment.MapFragment$1
+ com.example.MovieDB.fragment.MapFragment$2
+ com.example.MovieDB.fragment.MapFragment$3
+ com.example.MovieDB.fragment.MapFragment$ProductDBHelper
+com/example/MovieDB/adapter/CastListAdapter.java
+ com.example.MovieDB.adapter.CastListAdapter
+ com.example.MovieDB.adapter.CastListAdapter$1
+ com.example.MovieDB.adapter.CastListAdapter$RecyclerViewHolders
+com/example/MovieDB/adapter/ReviewsAdapter.java
+ com.example.MovieDB.adapter.ReviewsAdapter
+ com.example.MovieDB.adapter.ReviewsAdapter$1
+ com.example.MovieDB.adapter.ReviewsAdapter$MyViewHolder
+com/example/MovieDB/fragment/SearchFragment.java
+ com.example.MovieDB.fragment.SearchFragment
+ com.example.MovieDB.fragment.SearchFragment$1
+ com.example.MovieDB.fragment.SearchFragment$2
+ com.example.MovieDB.fragment.SearchFragment$2$1
+ com.example.MovieDB.fragment.SearchFragment$MyAsyncTask
+ com.example.MovieDB.fragment.SearchFragment$MyAsyncTask$HttpCallback
+com/example/MovieDB/database/FavoriteDBHelper.java
+ com.example.MovieDB.database.FavoriteDBHelper
+com/example/MovieDB/data/Movie.java
+ com.example.MovieDB.data.Movie
+com/example/MovieDB/data/Api.java
+ com.example.MovieDB.data.Api
+com/example/MovieDB/adapter/TrailersAdapter.java
+ com.example.MovieDB.adapter.TrailersAdapter
+ com.example.MovieDB.adapter.TrailersAdapter$RecyclerViewHolders
+ com.example.MovieDB.adapter.TrailersAdapter$RecyclerViewHolders$1
+com/example/MovieDB/BuildConfig.java
+ com.example.MovieDB.BuildConfig
+com/example/MovieDB/fragment/SearchActorFragment.java
+ com.example.MovieDB.fragment.SearchActorFragment
+ com.example.MovieDB.fragment.SearchActorFragment$1
+ com.example.MovieDB.fragment.SearchActorFragment$2
+ com.example.MovieDB.fragment.SearchActorFragment$2$1
+ com.example.MovieDB.fragment.SearchActorFragment$MyAsyncTask
+ com.example.MovieDB.fragment.SearchActorFragment$MyAsyncTask$HttpCallback
+com/example/MovieDB/database/FavoriteContract.java
+ com.example.MovieDB.database.FavoriteContract
+ com.example.MovieDB.database.FavoriteContract$FavoriteEntry
+com/example/MovieDB/adapter/CastAdapter.java
+ com.example.MovieDB.adapter.CastAdapter
+ com.example.MovieDB.adapter.CastAdapter$1
+ com.example.MovieDB.adapter.CastAdapter$MyViewHolder
+com/example/MovieDB/MainActivity.java
+ com.example.MovieDB.MainActivity
+ com.example.MovieDB.MainActivity$1
+ com.example.MovieDB.MainActivity$2
+ com.example.MovieDB.MainActivity$3
+ com.example.MovieDB.MainActivity$4
+ com.example.MovieDB.MainActivity$5
